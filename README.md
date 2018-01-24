@@ -29,7 +29,7 @@ Ask to see examples of each objective in the project, and ask the student to exp
 
 <sup>*</sup> `2` is the default score. A `3` should only be awarded when the student has demonstrably mastered the objective.
 
-A note on ratings: This is not a grade, and tehre are no GPAs. Students and reviewers should come to a consensus rating to understand where the student excels, and where the student may need some extra attention or help. 
+<h5>Ratings are not grades, and there are no GPAs. Students and reviewers should come to a consensus rating to understand where the student excels, and where the student may need some extra attention or help. </h5>
 
 ### Review Past Objectives
 
