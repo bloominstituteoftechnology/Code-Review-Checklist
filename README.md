@@ -14,8 +14,8 @@ Review each project, including assignments, personal projects, or Sprint Challen
 
 ## Part II - Review Objectives
 
-- [Lambda School Computer Science Academy Syllabus](http://ls-training-kit.netlify.com/cs-master)
-- [Lambda School Computer Science Academy Curriculum](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
+- [Lambda School Computer Science Academy Training Kit](http://ls-training-kit.netlify.com/cs-master)
+- [Lambda School Computer Science Academy Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 
 Objectives are written in 'Student can...' format, and reflect the skills the student will have demonstrated in their project, assignment, or sprint challenge. Using the student's tracker, review each competency or objective in each sample of code, and determine a rating (0-3) on each one.
 
