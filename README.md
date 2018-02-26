@@ -68,7 +68,7 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 3. Push the project to the new repo.
 4. Optionally, delete the old GitHub repo.
 ```
-
+![Make a NEW repository](img/new-repository.png)
 
 
 ```console
