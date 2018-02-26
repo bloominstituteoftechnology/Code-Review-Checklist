@@ -68,3 +68,17 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 3. Push the project to the new repo.
 4. Optionally, delete the old GitHub repo.
 ```
+
+
+
+```console
+$  git clone https://github.com/mixelpixel/CSS-Preprocessor-LESS.git
+   Cloning into 'CSS-Preprocessor-LESS'...
+   warning: You appear to have cloned an empty repository.
+$  cd CSS-Preprocessor-LESS/
+$  ls -al
+   total 0
+   drwxr-xr-x   3 mixelpix  staff    96 Feb 25 22:15 .
+   drwxr-xr-x+ 89 mixelpix  staff  2848 Feb 25 22:15 ..
+   drwxr-xr-x  10 mixelpix  staff   320 Feb 25 22:15 .git  <------- BINGO!
+```
