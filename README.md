@@ -101,6 +101,6 @@ $  git push
 
 ![SCROLL down to the DANGER ZONE](img/scroll-down-to-the-bottom.png)
 
-![DELETE this repository](img/THE-DANGER-ZONE.png)
+![DELETE this repository](img/THE-DANGER-ZONE-by-Kenny-Loggins.png)
 
 ![Enter the PROJECT name and press the BIG RED BUTTON](img/enter-the-project-name.png)
