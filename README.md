@@ -74,13 +74,5 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 ![COPY the new repository's URL](img/copy-new-repo-URL.png)
 
 ```console
-$  git clone https://github.com/mixelpixel/CSS-Preprocessor-LESS.git
-   Cloning into 'CSS-Preprocessor-LESS'...
-   warning: You appear to have cloned an empty repository.
-$  cd CSS-Preprocessor-LESS/
-$  ls -al
-   total 0
-   drwxr-xr-x   3 mixelpix  staff    96 Feb 25 22:15 .
-   drwxr-xr-x+ 89 mixelpix  staff  2848 Feb 25 22:15 ..
-   drwxr-xr-x  10 mixelpix  staff   320 Feb 25 22:15 .git  <------- BINGO!
+$  git remote set-url origin https://github.com/mixelpixel/Preprocessing-I.git
 ```
