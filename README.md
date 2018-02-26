@@ -70,6 +70,7 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 ```
 ![Make a NEW repository](img/new-repository.png)
 ![CREATE the new repository](img/new-repository.png)
+![COPY the new repository's URL](img/new-repository.png)
 
 
 ```console
