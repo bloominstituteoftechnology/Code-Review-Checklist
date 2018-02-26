@@ -69,6 +69,7 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 4. Optionally, delete the old GitHub repo.
 ```
 ![Make a NEW repository](img/new-repository.png)
+![CREATE the new repository](img/new-repository.png)
 
 
 ```console
