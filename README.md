@@ -48,8 +48,7 @@ Plans should include videos, resources, or exercises the student will complete i
 If there are any specific needs or concerns with the student, share them with a TA or Instructor.
 
 ## Part VI - Student Pull Request Feedback Template
-
-```markdown
+***
 ## Great
 
 ## Requested Improvements
@@ -64,32 +63,41 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 1. Create a new empty repository with the name of the project. If you
    want it to match, rename or delete your GitHub repo. Don't worry,
    your local copy will be safe.
-2. Add the new empty repo as a new remote to your local git repository.
-3. Push the project to the new repo.
-4. Optionally, delete the old GitHub repo.
-```
 
 ![Select "NEW repository"](img/select-New-repository.png)
 ![CREATE the new repository](img/create-new-repository.png)
 ![COPY the new repository's URL](img/copy-new-repo-URL.png)
 
+2. Add the new empty repo as a new remote to your local git repository.
+
 ```console
 $  git remote -v
-  origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (fetch)
-  origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (push)
+   origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (fetch)
+   origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (push)
 $  git remote set-url origin https://github.com/mixelpixel/Preprocessing-I.git
 $  git remote -v
-  origin  https://github.com/mixelpixel/Preprocessing-I.git (fetch)
-  origin  https://github.com/mixelpixel/Preprocessing-I.git (push)
+   origin  https://github.com/mixelpixel/Preprocessing-I.git (fetch)
+   origin  https://github.com/mixelpixel/Preprocessing-I.git (push)
+```
+3. Push the project to the new repo.
+
+```console
 $  git push
-  Counting objects: 111, done.
-  Delta compression using up to 4 threads.
-  Compressing objects: 100% (77/77), done.
-  Writing objects: 100% (111/111), 594.93 KiB | 45.76 MiB/s, done.
-  Total 111 (delta 27), reused 111 (delta 27)
-  remote: Resolving deltas: 100% (27/27), done.
-  To https://github.com/mixelpixel/Preprocessing-I.git
+   Counting objects: 111, done.
+   Delta compression using up to 4 threads.
+   Compressing objects: 100% (77/77), done.
+   Writing objects: 100% (111/111), 594.93 KiB | 45.76 MiB/s, done.
+   Total 111 (delta 27), reused 111 (delta 27)
+   remote: Resolving deltas: 100% (27/27), done.
+   To https://github.com/mixelpixel/Preprocessing-I.git
    * [new branch]      master -> master
 ```
 
 ![Local repository pushed to StudentB's GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
+
+4. Optionally, delete the old GitHub repo.
+
+![Select the SETTINGS tab](img/select-the-Settings-tab.png)
+![SCROLL down to the DANGER ZONE](scroll-down-to-the-bottomg.png)
+![DELETE this repository](the-danger-zone.png)
+![Enter the PROJECT name and press the BIG RED BUTTON](enter-the-project-name.png)
