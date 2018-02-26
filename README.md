@@ -52,12 +52,19 @@ If there are any specific needs or concerns with the student, share them with a 
 ```markdown
 ## Great
 
-## Potential Improvements
+## Requested Improvements
 
 ## Questions
 
-{Any other directions we have for them, including
-the instructions for making it count on contribution graph}
+## Rating: {1-3}
 
-## Score: 2 (default)
+#### GitHub Contribution Graph
+If you'd like your work to count on your GitHub contribution graph, do the following:
+
+1. Create a new empty repository with the name of the project. If you
+   want it to match, rename or delete your GitHub repo. Don't worry,
+   your local copy will be safe.
+2. Add the new empty repo as a new remote to your local git repository.
+3. Push the project to the new repo.
+4. Optionally, delete the old GitHub repo.
 ```
