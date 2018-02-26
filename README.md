@@ -48,7 +48,8 @@ Plans should include videos, resources, or exercises the student will complete i
 If there are any specific needs or concerns with the student, share them with a TA or Instructor.
 
 ## Part VI - Student Pull Request Feedback Template
-***
+
+```markdown
 ## Great
 
 ## Requested Improvements
@@ -58,6 +59,9 @@ If there are any specific needs or concerns with the student, share them with a 
 ## Rating: {1-3}
 
 #### GitHub Contribution Graph
+
+![Heat Map](img/heatmap.png)
+
 If you'd like your work to count on your GitHub contribution graph, do the following:
 
 1. Create a new empty repository with the name of the project. If you
