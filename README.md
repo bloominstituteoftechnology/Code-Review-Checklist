@@ -97,7 +97,7 @@ $  git push
 
 4. Optionally, delete the old GitHub repo.
 
-![Select the SETTINGS tab](img/select-the-Settings-tab.png)
-![SCROLL down to the DANGER ZONE](img/scroll-down-to-the-bottomg.png)
-![DELETE this repository](img/the-danger-zone.png)
+![Select the SETTINGS tab](img/select-the-project-Settings-tab.png)
+![SCROLL down to the DANGER ZONE](img/scroll-down-to-the-bottom.png)
+![DELETE this repository](img/THE-DANGER-ZONE.png)
 ![Enter the PROJECT name and press the BIG RED BUTTON](img/enter-the-project-name.png)
