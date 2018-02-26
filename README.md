@@ -74,5 +74,20 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 ![COPY the new repository's URL](img/copy-new-repo-URL.png)
 
 ```console
+$  git remote -v
+  origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (fetch)
+  origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (push)
 $  git remote set-url origin https://github.com/mixelpixel/Preprocessing-I.git
+$  git remote -v
+  origin  https://github.com/mixelpixel/Preprocessing-I.git (fetch)
+  origin  https://github.com/mixelpixel/Preprocessing-I.git (push)
+$  git push
+  Counting objects: 111, done.
+  Delta compression using up to 4 threads.
+  Compressing objects: 100% (77/77), done.
+  Writing objects: 100% (111/111), 594.93 KiB | 45.76 MiB/s, done.
+  Total 111 (delta 27), reused 111 (delta 27)
+  remote: Resolving deltas: 100% (27/27), done.
+  To https://github.com/mixelpixel/Preprocessing-I.git
+   * [new branch]      master -> master
 ```
