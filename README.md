@@ -71,7 +71,7 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 
 ![Make a NEW repository](img/new-repository.png)
 ![CREATE the new repository](img/create-new-repository.png)
-![COPY the new repository's URL](img/copy-new-repository.png)
+![COPY the new repository's URL](img/copy-new-repo-URL.png)
 
 ```console
 $  git clone https://github.com/mixelpixel/CSS-Preprocessor-LESS.git
