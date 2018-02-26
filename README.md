@@ -72,7 +72,6 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 ![Select "NEW repository"](img/select-New-repository.png)
 ![CREATE the new repository](img/create-new-repository.png)
 ![COPY the new repository's URL](img/copy-new-repo-URL.png)
-![Local repository pushed to StudentB's GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
 
 ```console
 $  git remote -v
@@ -92,3 +91,5 @@ $  git push
   To https://github.com/mixelpixel/Preprocessing-I.git
    * [new branch]      master -> master
 ```
+
+![Local repository pushed to StudentB's GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
