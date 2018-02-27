@@ -61,6 +61,8 @@ If there are any specific needs or concerns with the student, share them with a 
 #### GitHub Contribution Graph
 ```
 
+## GitHub Contribution Graph
+
 ![Heat Map](img/heatmap.png)
 
 ```markdown
