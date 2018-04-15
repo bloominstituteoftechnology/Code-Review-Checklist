@@ -65,7 +65,7 @@ If there are any specific needs or concerns with the student, share them with a 
 
 ![Heat Map](img/contribution-graph.png)
 
-### Please take a moment to review GitHub's "[Learn How We Count Contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)" page. In particular the ""[Commit Was Made In A Fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section. If you'd like all of your work to be reflected on your GitHub Contribution Graph, you do the following:
+### Please take a moment to review GitHub's "[Learn How We Count Contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)" page. In particular the "[Commit Was Made In A Fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section. If you'd like all of your work to be reflected on your GitHub Contribution Graph, you do the following:
 
 1. Create a new empty repository on GitHub. Give it the name of the project you want to "de-fork". If you
    want the new project name to match the old one, rename or delete your forked GitHub repository _**on*__ GitHub. Don't worry, your local copy will be safe.
