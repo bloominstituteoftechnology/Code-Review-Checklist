@@ -91,7 +91,7 @@ $  git remote -v
                               ^^^^^^^^^^
 ```
 
-5. Push the project to the new repository.
+5. Push your local project to the new GitHub repository.
 
 ```console
 $  git push origin master
@@ -129,8 +129,10 @@ $  git push origin master
 
 [![DELETE this repository](img/THE-DANGER-ZONE.png)](https://youtu.be/siwpn14IE7E)
 
-:point_up: Click :point_up: on :point_up: this :point_up: picture :point_up: before you enter "The Danger Zone" :+1: 
+:point_up: Click :point_up: on :point_up: this :point_up: picture :point_up: before you enter "The Danger Zone" :+1:
 
 ![Enter the PROJECT name and press the BIG RED BUTTON](img/enter-the-project-name.png)
 
 <p align="right"><a href="#de-forking-your-project">Go back to "De-Forking"</a></p>
+
+:octocat:
