@@ -109,11 +109,12 @@ $  git push origin master
 ```
 
 ![Local repository pushed to StudentB's NEW and NON-FORKED GitHub repository](img/local-git-repo-pushed-to-new-GH-repo.png)
-  - The old contribution count:
+
+### BEFORE:
 
   ![Previous contribution count](img/contribution-count.png)
 
-  - The new contribution count:
+### AFTER:
 
   ![New and improved contribution count](img/updated-contribution-count.png)
 
@@ -121,7 +122,7 @@ $  git push origin master
 
 ![Rename your "OLD" repository](img/rename.png)
 
-<p align="right"><a href="#de-forking-your-project">Index</a></p>
+<p align="right"><a href="#de-forking-your-project">Go back to "De-Forking"</a></p>
 
 ### How to DELETE your old GitHub Repo.
 
@@ -133,4 +134,4 @@ $  git push origin master
 
 ![Enter the PROJECT name and press the BIG RED BUTTON](img/enter-the-project-name.png)
 
-<p align="right"><a href="#de-forking-your-project">Index</a></p>
+<p align="right"><a href="#de-forking-your-project">Go back to "De-Forking"</a></p>
