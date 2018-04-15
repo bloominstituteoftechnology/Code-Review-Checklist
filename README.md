@@ -129,6 +129,8 @@ $  git push origin master
 
 [![DELETE this repository](img/THE-DANGER-ZONE.png)](https://youtu.be/siwpn14IE7E)
 
+##### :pointup: Click on the picture before you enter "The Danger Zone" :pointup:
+
 ![Enter the PROJECT name and press the BIG RED BUTTON](img/enter-the-project-name.png)
 
 <p align="right"><a href="#de-forking-your-project">Go back to "De-Forking"</a></p>
