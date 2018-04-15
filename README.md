@@ -105,9 +105,13 @@ $  git push origin master
 
 ![Local repository pushed to StudentB's NEW and NON-FORKED GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
   - The old contribution count:
+
   ![Previous contribution count](img/contribution-count.png)
+
   - The new contribution count:
+
   ![New and improved contribution count](img/update-to-contribution-count.png)
+
 5. Optionally, you can now delete the old GitHub repo.
 
 ![Select the SETTINGS tab](img/select-the-project-Settings-tab.png)
