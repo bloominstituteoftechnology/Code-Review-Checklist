@@ -113,7 +113,7 @@ $  git push origin master
 
 ### AFTER:
 
-  ![New and improved contribution count](img/updated-contribution-count.png)
+  ![New and improved contribution count](img/update-contribution-count.png)
 
 ### How to RENAME your old GitHub Repo.
 
