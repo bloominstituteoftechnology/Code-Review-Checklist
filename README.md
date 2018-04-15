@@ -110,7 +110,7 @@ $  git push origin master
 
   - The new contribution count:
 
-  ![New and improved contribution count](img/update-to-contribution-count.png)
+  ![New and improved contribution count](img/updated-contribution-count.png)
 
 5. Optionally, you can now delete the old GitHub repo.
 
