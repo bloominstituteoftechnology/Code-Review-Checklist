@@ -103,7 +103,7 @@ $  git push origin master
    * [new branch]      master -> master
 ```
 
-![Local repository pushed to StudentB's NEW and NON-FORKED GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
+![Local repository pushed to StudentB's NEW and NON-FORKED GitHub repository](img/local-git-repo-pushed-to-new-GH-repo.png)
   - The old contribution count:
 
   ![Previous contribution count](img/contribution-count.png)
