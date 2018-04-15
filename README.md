@@ -69,7 +69,7 @@ If there are any specific needs or concerns with the student, share them with a 
 If you'd like your work to count on your GitHub contribution graph, do the following:
 
 1. Create a new empty repository with the name of the project. If you
-   want it to match, rename or delete your GitHub repo. Don't worry,
+   want it to match, rename or delete your forked GitHub repo. Don't worry,
    your local copy will be safe.
 ```
 
@@ -78,7 +78,7 @@ If you'd like your work to count on your GitHub contribution graph, do the follo
 ![COPY the new repository's URL](img/copy-new-repo-URL.png)
 
 ```markdown
-2. Add the new empty repo as a new remote to your local git repository.
+2. Add the new and empty GitHub repository as the "origin" remote to your local git repository.
 ```
 
 ```console
