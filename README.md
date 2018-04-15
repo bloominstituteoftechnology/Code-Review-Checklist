@@ -129,7 +129,7 @@ $  git push origin master
 
 [![DELETE this repository](img/THE-DANGER-ZONE.png)](https://youtu.be/siwpn14IE7E)
 
-:point_up: Click on the picture before you enter "The Danger Zone" :+1: 
+:point_up: Click :point_up: on :point_up: this :point_up: picture :point_up: before you enter "The Danger Zone" :+1: 
 
 ![Enter the PROJECT name and press the BIG RED BUTTON](img/enter-the-project-name.png)
 
