@@ -7,5 +7,5 @@ node_modules
 # VIM resource files
 *.sw[a-p]
 
-# VSC recource files
+# VSC resource files
 .vs
