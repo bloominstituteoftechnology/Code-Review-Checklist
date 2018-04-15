@@ -67,9 +67,10 @@ If there are any specific needs or concerns with the student, share them with a 
 
 ### Please take a moment to review GitHub's "[Learn How We Count Contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)" page. In particular the "[Commit Was Made In A Fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section. If you'd like all of your work to be reflected on your GitHub Contribution Graph, you can do the following:
 
-1. If you want the new project name to match the old one, rename or [delete](#how-to-delete-your-old-github-repo) your forked GitHub repository. Do this _**on**_ GitHub - **DO NOT DELETE YOUR LOCAL COPY!** You can access the renaming and deleting options on GitHub in the "Settings" tab of your fork. Don't worry, your local copy will be safe even if you delete your GitHub fork.
+1. **DO NOT DELETE YOUR LOCAL PROJECT!**
+2. If you want your new and "non-forked" GitHub project name to match the old project name, first [rename](#how-to-rename-your-old-github-repo) or [delete](#how-to-delete-your-old-github-repo) your forked GitHub repository. Do this _**on**_ GitHub. You can access the renaming and deleting options on GitHub in the "Settings" tab of your fork. Don't worry, if you delete your GitHub fork, your local copy will be safe.
 
-![Rename or Delete "OLD" repository](img/rename.png)
+
 
 2. Create a new empty repository on GitHub. Give it the name of the project you are "de-forking".
 
@@ -112,7 +113,11 @@ $  git push origin master
 
   ![New and improved contribution count](img/updated-contribution-count.png)
 
-### How to delete your old GitHub repo.
+### How to RENMAE your old GitHub Repo.
+
+![Rename your "OLD" repository](img/rename.png)
+
+### How to DELETE your old GitHub Repo.
 
 ![Select the SETTINGS tab](img/select-the-project-Settings-tab.png)
 
