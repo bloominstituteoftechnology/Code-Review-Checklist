@@ -115,13 +115,15 @@ $  git push origin master
 
   ![New and improved contribution count](img/update-contribution-count.png)
 
-### How to RENAME your old GitHub Repo.
+***
+
+# How to RENAME your old GitHub Repo.
 
 ![Rename your "OLD" repository](img/rename.png)
 
 <p align="right"><a href="#de-forking-your-project">Go back to "De-Forking"</a></p>
 
-### How to DELETE your old GitHub Repo.
+# How to DELETE your old GitHub Repo.
 1. Select the "Settings" tab.
 
 ![Select the SETTINGS tab](img/select-the-project-Settings-tab.png)
