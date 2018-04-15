@@ -123,6 +123,8 @@ $  git push origin master
 
 <p align="right"><a href="#de-forking-your-project">Go back to "De-Forking"</a></p>
 
+***
+
 # How to DELETE your old GitHub Repo.
 1. Select the "Settings" tab.
 
