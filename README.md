@@ -122,14 +122,21 @@ $  git push origin master
 <p align="right"><a href="#de-forking-your-project">Go back to "De-Forking"</a></p>
 
 ### How to DELETE your old GitHub Repo.
+1. Select the "Settings" tab.
 
 ![Select the SETTINGS tab](img/select-the-project-Settings-tab.png)
 
+2. Scroll down to "The Danger Zone."
+
 ![SCROLL down to the DANGER ZONE](img/scroll-down-to-the-bottom.png)
+
+3. Press the red button!
 
 [![DELETE this repository](img/THE-DANGER-ZONE.png)](https://youtu.be/siwpn14IE7E)
 
 :point_up: Click :point_up: on :point_up: this :point_up: picture :point_up: before you enter "The Danger Zone" :+1:
+
+4. Confirm you are not a robot and press the [BIG RED BUTTON](http://abstrusegoose.com/10)!
 
 ![Enter the PROJECT name and press the BIG RED BUTTON](img/enter-the-project-name.png)
 
