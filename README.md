@@ -60,31 +60,30 @@ If there are any specific needs or concerns with the student, share them with a 
 
 #### GitHub Contribution Graph
 ```
-***
-## GitHub Contribution Graph
 
-![Heat Map](img/heatmap.png)
+## Part VII - GitHub Contribution Graph
 
-### If you'd like your work to count on your GitHub contribution graph, do the following:
+![Heat Map](img/contribution-graph.png)
 
-1. Create a new empty repository with the name of the project. If you
-   want it to match, rename or delete your forked GitHub repo. Don't worry,
-   your local copy will be safe.
+### Please take a moment to review GitHub's "[Learn How We Count Contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)" page. In particular the ""[Commit Was Made In A Fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section. If you'd like all of your work to be reflected on your GitHub Contribution Graph, you do the following:
+
+1. Create a new empty repository on GitHub. Give it the name of the project you want to "de-fork". If you
+   want the new project name to match the old one, rename or delete your forked GitHub repository _**on*__ GitHub. Don't worry, your local copy will be safe.
 
 ![Select "NEW repository"](img/select-New-repository.png)
 ![CREATE the new repository](img/create-new-repository.png)
 ![COPY the new repository's URL](img/copy-new-repo-URL.png)
 
-2. Add the new and empty GitHub repository as the "origin" remote to your local git repository.
+2. Add the new (and empty) GitHub repository as the "origin" remote to your local git repository.
 
 ```console
 $  git remote -v
-   origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (fetch)
-   origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (push)
-$  git remote set-url origin https://github.com/mixelpixel/Preprocessing-I.git
+   origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (fetch) <--- OLD
+   origin  https://github.com/LambdaSchool-PairStudentA/Preprocessing-I.git (push) <---- OLD
+$  git remote set-url origin https://github.com/mixelpixel/Preprocessing-I.git <-------- NEW
 $  git remote -v
-   origin  https://github.com/mixelpixel/Preprocessing-I.git (fetch)
-   origin  https://github.com/mixelpixel/Preprocessing-I.git (push)
+   origin  https://github.com/mixelpixel/Preprocessing-I.git (fetch) <------------------ NEW
+   origin  https://github.com/mixelpixel/Preprocessing-I.git (push) >------------------- NEW
 ```
 
 3. Push the project to the new repo.
@@ -103,7 +102,7 @@ $  git push
 
 ![Local repository pushed to StudentB's GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
 
-4. Optionally, delete the old GitHub repo.
+4. Optionally, you can now delete the old GitHub repo.
 
 ![Select the SETTINGS tab](img/select-the-project-Settings-tab.png)
 
