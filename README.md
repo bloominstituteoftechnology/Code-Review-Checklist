@@ -65,21 +65,17 @@ If there are any specific needs or concerns with the student, share them with a 
 
 ![Heat Map](img/heatmap.png)
 
-```markdown
-If you'd like your work to count on your GitHub contribution graph, do the following:
+### If you'd like your work to count on your GitHub contribution graph, do the following:
 
 1. Create a new empty repository with the name of the project. If you
    want it to match, rename or delete your forked GitHub repo. Don't worry,
    your local copy will be safe.
-```
 
 ![Select "NEW repository"](img/select-New-repository.png)
 ![CREATE the new repository](img/create-new-repository.png)
 ![COPY the new repository's URL](img/copy-new-repo-URL.png)
 
-```markdown
 2. Add the new and empty GitHub repository as the "origin" remote to your local git repository.
-```
 
 ```console
 $  git remote -v
@@ -91,9 +87,7 @@ $  git remote -v
    origin  https://github.com/mixelpixel/Preprocessing-I.git (push)
 ```
 
-```markdown
 3. Push the project to the new repo.
-```
 
 ```console
 $  git push
@@ -109,9 +103,7 @@ $  git push
 
 ![Local repository pushed to StudentB's GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
 
-```markdown
 4. Optionally, delete the old GitHub repo.
-```
 
 ![Select the SETTINGS tab](img/select-the-project-Settings-tab.png)
 
