@@ -67,14 +67,17 @@ If there are any specific needs or concerns with the student, share them with a 
 
 ### Please take a moment to review GitHub's "[Learn How We Count Contributions](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)" page. In particular the "[Commit Was Made In A Fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section. If you'd like all of your work to be reflected on your GitHub Contribution Graph, you can do the following:
 
-1. Create a new empty repository on GitHub. Give it the name of the project you want to "de-fork". If you
-   want the new project name to match the old one, rename or delete your forked GitHub repository _**on*__ GitHub. Don't worry, your local copy will be safe.
+1. If you want the new project name to match the old one, rename or delete your forked GitHub repository. Do this _**on**__ GitHub (do not delete your local copy!) You can access the renaming and deleting options on GitHub in the "Settings" tab of your fork. Don't worry, your local copy will be safe even if you delete your GitHub fork.
+
+![Rename or Delete "OLD" repository](img/rename.png)
+
+2. Create a new empty repository on GitHub. Give it the name of the project you are "de-forking".
 
 ![Select "NEW repository"](img/select-New-repository.png)
 ![CREATE the new repository](img/create-new-repository.png)
 ![COPY the new repository's URL](img/copy-new-repo-URL.png)
 
-2. Add the new (and empty) GitHub repository as the "origin" remote to your local git repository.
+3. Add the new (and empty) GitHub repository as the "origin" remote to your local git repository.
 
 ```console
 $  git remote -v
@@ -86,10 +89,10 @@ $  git remote -v
    origin  https://github.com/mixelpixel/Preprocessing-I.git (push) >------------------- NEW
 ```
 
-3. Push the project to the new repo.
+4. Push the project to the new reporepository.
 
 ```console
-$  git push
+$  git push origin master
    Counting objects: 111, done.
    Delta compression using up to 4 threads.
    Compressing objects: 100% (77/77), done.
@@ -100,9 +103,12 @@ $  git push
    * [new branch]      master -> master
 ```
 
-![Local repository pushed to StudentB's GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
-
-4. Optionally, you can now delete the old GitHub repo.
+![Local repository pushed to StudentB's NEW and NON-FORKED GitHub repository](img/local-repo-pushed-to-new-GH-repo.png)
+  - The old contribution count:
+  ![Previous contribution count](img/contribution-count.png)
+  - The new contribution count:
+  ![New and improved contribution count](img/update-to-contribution-count.png)
+5. Optionally, you can now delete the old GitHub repo.
 
 ![Select the SETTINGS tab](img/select-the-project-Settings-tab.png)
 
