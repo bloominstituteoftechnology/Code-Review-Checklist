@@ -1,6 +1,6 @@
 # Lambda School Code Review Checklist
 
-Code review is the time to catch issues and help students who don't understand concepts from the day or week. A thorough code review may take between 90-120 minutes, but you can do a condensed code review in about 30 minutes. Instructors, PMs, or peer mentors can use the code review as an opportunity to push and challenge students technically. While students should feel free to ask questions, they should also be ready to explain and defend your code.
+Code review is the time to catch issues and help students who don't understand concepts from the day or week. A thorough code review may take between 90-120 minutes, but you can do a condensed code review in under 30 minutes. Instructors, PMs, or peer mentors can use the code review as an opportunity to push and challenge students technically. While students should feel free to ask questions, they should also be ready to explain and defend your code.
 
 ## Part I - Review Projects
 
