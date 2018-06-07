@@ -1,6 +1,6 @@
 # Lambda School Code Review Checklist
 
-Code review is the time to catch issues and help students who don't understand concepts from the day or week. A thorough code review may take between 90-120 minutes, but you can do a condensed code review in about 30 minutes. Instructors, PMs, or peer mentors will use the code review as an opportunity to push and challenge you technically. While you should feel free to ask questions, you should also be ready to explain and defend your code.
+Code review is the time to catch issues and help students who don't understand concepts from the day or week. A thorough code review may take between 90-120 minutes, but you can do a condensed code review in about 30 minutes. Instructors, PMs, or peer mentors can use the code review as an opportunity to push and challenge students technically. While students should feel free to ask questions, they should also be ready to explain and defend your code.
 
 ## Part I - Review Projects
 
@@ -8,13 +8,13 @@ Review each project, including assignments, personal projects, or Sprint Challen
 
 1. Each project is pushed to GitHub with clear, detailed commit messages.
 2. Each project is feature complete and works as expected.
-3. There are no exceptions or warnings.
+3. There are no exceptions or warnings in your console or Chrome Developer Tools.
 4. Code follows consistent naming conventions, language idioms, and style.
 5. Code is written by the student.
 
 ## Part II - Review Objectives
 
-Objectives are written in our 'Student can...' format, and reflect the skills the student will have demonstrated in their project, assignment, or sprint challenge. Using the student's tracker, review each competency or objective in each sample of code, and determine a rating (0-3) on each one.
+Objectives from the Training Kit are written in our 'Student can...' format, and reflect the skills the student will have demonstrated in their project, assignment, or sprint challenge. Using the student's tracker, review each competency or objective in each sample of code, and determine a rating (0-3) on each one.
 
 Ask to see examples of each objective in the project. Ask the student to explain the code and how it demonstrates their mastery.
 
