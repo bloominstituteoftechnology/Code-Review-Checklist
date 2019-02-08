@@ -67,7 +67,6 @@ If there are any specific needs or concerns with the student, share them with a 
 
 # UPDATE
 
-```
 We recommend against de-forking while in class - just so all the links submitted stay active. But, you don't really need to de-fork anything.
 
 All the commit history lives in the `.git` folder in the local Git repo directory - you just need to get the project up to GitHub. This can be as simple as:
@@ -77,15 +76,18 @@ All the commit history lives in the `.git` folder in the local Git repo director
 3. pushing the project up to the new GitHub repository.
 
 It might help to make a "Team" to keep the "active student" repositories separate from the ones pushed up for the heatmap.
-```
+
+Latest update: 2/8/2019
 
 ***
 
-# THE FOLLOWING IS DEPRECATED
+### THE FOLLOWING IS DEPRECATED
 
 Our branching workflow will result in contributions reflected in your heatmap.
 
 ***
+
+<details><summary>Deprecated de-forking</summary><p>
 
 Unfortunately, commits made in a fork are not counted towards the contribution graph on your GitHub profile. Please see the "[Commit was made in a fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section of GitHub's _"Why are my contributions not showing up on my profile?"_ article:
 > Commits made in a fork will not count toward your contributions. To make them count, you must do one of the following:
@@ -94,3 +96,5 @@ Unfortunately, commits made in a fork are not counted towards the contribution g
 > 2. To detach the fork and turn it into a standalone repository on GitHub, contact [GitHub Support](https://github.com/contact). If the fork has forks of its own, let support know if the forks should move with your repository into a new network or remain in the current network. For more information, see "[About forks](https://help.github.com/articles/about-forks/)."
 
 Option one is not available to Lambda School students. With option two, you should find that GitHub Support is very friendly and timely with their response. You can, however, get your "Heat Map" to accurately reflect your contributions another way. Please visit [this repository](https://github.com/LambdaSchool/GitHub-Contribution-Graph). You will find detailed instructions on how to "de-fork" your repositories. :octocat:
+
+</p></details>
