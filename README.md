@@ -83,9 +83,7 @@ Latest update: 2/8/2019
 
 ***
 
-### THE FOLLOWING IS DEPRECATED
-
-<details><summary>Deprecated de-forking</summary><p>
+<details><summary>The following is deprecated</summary><p>
 
 Unfortunately, commits made in a fork are not counted towards the contribution graph on your GitHub profile. Please see the "[Commit was made in a fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section of GitHub's _"Why are my contributions not showing up on my profile?"_ article:
 > Commits made in a fork will not count toward your contributions. To make them count, you must do one of the following:
