@@ -65,7 +65,7 @@ If there are any specific needs or concerns with the student, share them with a 
 
 ![Heat Map](img/contribution-graph-heat-map.png)
 
-# UPDATE
+### UPDATE
 
 We recommend against de-forking while in class - just so all the links submitted stay active. But, you don't really need to de-fork anything.
 
