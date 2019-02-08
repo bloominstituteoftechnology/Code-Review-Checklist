@@ -65,6 +65,28 @@ If there are any specific needs or concerns with the student, share them with a 
 
 ![Heat Map](img/contribution-graph-heat-map.png)
 
+# UPDATE
+
+```
+We recommend against de-forking while in class - just so all the links submitted stay active. But, you don't really need to de-fork anything.
+
+All the commit history lives in the `.git` folder in the local Git repo directory - you just need to get the project up to GitHub. This can be as simple as:
+
+1. creating a new repo on GitHub,
+2. giving it a unique name to help distinguish it in your GitHub repository list, and
+3. pushing the project up to the new GitHub repository.
+
+It might help to make a "Team" to keep the "active student" repositories separate from the ones pushed up for the heatmap.
+```
+
+***
+
+# THE FOLLOWING IS DEPRECATED
+
+Our branching workflow will result in contributions reflected in your heatmap.
+
+***
+
 Unfortunately, commits made in a fork are not counted towards the contribution graph on your GitHub profile. Please see the "[Commit was made in a fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section of GitHub's _"Why are my contributions not showing up on my profile?"_ article:
 > Commits made in a fork will not count toward your contributions. To make them count, you must do one of the following:
 > 
