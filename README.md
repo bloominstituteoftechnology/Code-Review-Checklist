@@ -83,15 +83,3 @@ Lambda School's 2019 [Git branching workflow](https://youtu.be/cSoHP7WSsEg) will
 Latest update: 2/8/2019
 
 ***
-
-<details><summary>The following is deprecated</summary><p>
-
-Unfortunately, commits made in a fork are not counted towards the contribution graph on your GitHub profile. Please see the "[Commit was made in a fork](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commit-was-made-in-a-fork)" section of GitHub's _"Why are my contributions not showing up on my profile?"_ article:
-> Commits made in a fork will not count toward your contributions. To make them count, you must do one of the following:
-> 
-> 1. Open a pull request to have your changes merged into the parent repository.
-> 2. To detach the fork and turn it into a standalone repository on GitHub, contact [GitHub Support](https://github.com/contact). If the fork has forks of its own, let support know if the forks should move with your repository into a new network or remain in the current network. For more information, see "[About forks](https://help.github.com/articles/about-forks/)."
-
-Option one is not available to Lambda School students. With option two, you should find that GitHub Support is very friendly and timely with their response. You can, however, get your "Heat Map" to accurately reflect your contributions another way. Please visit [this repository](https://github.com/LambdaSchool/GitHub-Contribution-Graph). You will find detailed instructions on how to "de-fork" your repositories. :octocat:
-
-</p></details>
