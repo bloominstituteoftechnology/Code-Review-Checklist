@@ -2,7 +2,7 @@
 
 ## FAQ
 ### Why?
-Daily Assignment Code Reviews (DACRs) are the time to catch issues and help students who don't understand concepts from a given module. A thorough, instructive code review should take roughly 15 minutes. Especially if you batch them together and boost your efficiency! Code Reviews represents a great opportunity to push and challenge students technically. It also represents a great opportunity to support and help students who require it, ahead of the Sprint Challenge. 
+Daily Assignment Code Reviews (DACRs) are the time to catch issues and help students who don't understand concepts from a given module. A thorough, instructive code review should take roughly 15 minutes. [1] Especially if you batch them together and boost your efficiency! Code Reviews represents a great opportunity to push and challenge students technically. It also represents a great opportunity to support and help students who require it, ahead of the Sprint Challenge. 
 
 ### Ok. But I haven't seen this material in >= 20 weeks...
 That's alright! Part of the benefit of being a PM is that revisiting the material once more affords you an opportunity to deepen your understanding. Moreover, that material has probably been iterated to your benefit. You will also be receiving Solution Notebooks every day for every Module. These will allow you to answer questions on topics you may not remember all that well. Touch base with your Unit instructor to ensure a timely delivery of these as the curriculum changes may require them to be updated. While you are not allowed to share the entire notebook with students, you may use snippets of code to shape your feedback in a students pull request. 
@@ -12,7 +12,7 @@ That's alright! Part of the benefit of being a PM is that revisiting the materia
 ## Suggested Workflow
 #### some context....
 
-1. Students **must** submit their assignments sometime between the end of Project Time (3:45PM Lambda) and the start of class the following day (8:00AM Lambda) via Pull Request on Github (just like you used to!). [1]
+1. Students **must** submit their assignments sometime between the end of Project Time (3:45PM Lambda) and the start of class the following day (8:00AM Lambda) via Pull Request on Github (just like you used to!). [2]
 2. 
 
 Set this expectation early on with your group, and enforce it regularly. They will fall into rythmn soon and then everything will be in lock-step, making your life much easier. :thumbsup:
@@ -104,4 +104,5 @@ Latest update: 2/8/2019
 ***
 
 
-:one: The earlier the better! If you can start knocking out code reviews the same day, why not?
+:one: Especially if you batch them together to boost efficiency! See the examples for more context.  
+:two: The earlier the better! If you can start knocking out code reviews the same day, why not?
