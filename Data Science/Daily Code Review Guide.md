@@ -51,5 +51,5 @@ Latest update: 5/21/2019
 
 :one: Especially if you batch them together to boost efficiency! See the examples and suggested workflow for more context.  
 :two: The earlier the better! If you can start knocking out code reviews the same day, why not?  
-:three: Remember that Github comments have nearly identical keyboard shortcuts to Slack (emojis, lists, emphasis, etc).
+:three: Remember that Github comments have nearly identical keyboard shortcuts to Slack (emojis, lists, emphasis, etc).  
 :four: Again, this depends on students being on top of their assignments to work. Be sure to enforce this early on! Also, this is a great time to send out Calendly links to your students to schedule 1:1's post SC
